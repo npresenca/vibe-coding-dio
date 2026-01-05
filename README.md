@@ -48,6 +48,9 @@ Facilitar o registro de vendas e precificação sem formulários complexos, usan
 - Testar com grupo pequeno de crocheteiras iniciantes.  
 - Observar clareza das mensagens e facilidade de uso.  
 - Ajustar relatórios e recomendações conforme feedback.
+  
+<img width="1223" height="829" alt="image" src="https://github.com/user-attachments/assets/4818c10d-b858-4dfd-9b32-3bd17d843d58" />
+<img width="1718" height="784" alt="image" src="https://github.com/user-attachments/assets/93838e5e-9cbe-426b-922c-1f2ae3566e3e" />
 
 O que funcionou bem?
 - O histórico de vendas, relatórios, registros, resumo do mês e a calculadora funcionaram bem conforme foi pedido.
