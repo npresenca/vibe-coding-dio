@@ -1,3 +1,9 @@
+
+### 🧵 Prompt (PRD)
+"Quero criar um aplicativo de Precificação de Produtos em Crochê com foco em simplicidade e experiência conversacional.  
+O público-alvo são pessoas que estão começando a vender crochê e precisam de ajuda para definir preços e acompanhar suas vendas."
+ 
+ -------------------------------------------------------------------------------------------------------------------------
  ### 🧵 Objetivo
 Facilitar o registro de vendas e precificação sem formulários complexos, usando linguagem natural via chat.
 
