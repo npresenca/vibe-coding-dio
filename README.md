@@ -2,8 +2,9 @@
 ### 🧵 Prompt (PRD)
 "Quero criar um aplicativo de Precificação de Produtos em Crochê com foco em simplicidade e experiência conversacional.  
 O público-alvo são pessoas que estão começando a vender crochê e precisam de ajuda para definir preços e acompanhar suas vendas."
- 
+
  -------------------------------------------------------------------------------------------------------------------------
+
  ### 🧵 Objetivo
 Facilitar o registro de vendas e precificação sem formulários complexos, usando linguagem natural via chat.
 
@@ -46,4 +47,15 @@ Facilitar o registro de vendas e precificação sem formulários complexos, usan
 ### 🧵  Validação Inicial
 - Testar com grupo pequeno de crocheteiras iniciantes.  
 - Observar clareza das mensagens e facilidade de uso.  
-- Ajustar relatórios e recomendações conforme feedback.  
+- Ajustar relatórios e recomendações conforme feedback.
+
+O que funcionou bem?
+- O histórico de vendas, relatórios, registros, resumo do mês e a calculadora funcionaram bem conforme foi pedido.
+  
+O que não funcionou como o esperado?
+- O registro das metas não funcionou como esperado na hora de pedir para o agente determinar uma meta específica, porém é possível ajustar ao conversar com o agente de IA da Lovable (não deu para prosseguir com a conversação pois não tive créditos suficientes).
+  
+O que aprendeu sobre conversar com IAs?
+- É possível montar um rascunho da solução com vibe coding antes de iniciar o desenvolvimento da aplicação real. O próprio rascunho também ajuda as pessoas para resolver alguns desafios do cotidiano. 
+
+Visite o [Link](https://crocheprecoajrn.lovable.app/) para testar a solução.
